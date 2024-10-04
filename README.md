@@ -36,9 +36,7 @@ As a software engineer, I leverage my meticulous attention to detail and deep co
 
 
 <br> <br> <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeeptaalla&show_icons=true&locale=en&layout=compact" alt="pradeeptaalla" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeeptaalla&" alt="pradeeptaalla" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeeptaalla&show_icons=true&locale=en&layout=compact" alt="pradeeptaalla" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeeptaalla&" alt="pradeeptaalla" /></p>
 
 
 
