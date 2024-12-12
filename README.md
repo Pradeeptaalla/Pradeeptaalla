@@ -23,7 +23,7 @@ As a software engineer, I leverage my meticulous attention to detail and deep co
 
 - <img src="https://github.com/Pradeeptaalla/portfolio/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Pradeeptaalla/portfolio/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: pradeeptaalla@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
+
 
 </br>
 
